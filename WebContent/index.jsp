@@ -14,10 +14,10 @@
 	crossorigin="anonymous">
 </head>
 <body class="nasz-body">
+	<h1>
+		<strong><p class="text-center">Currency Converter</p></strong>
+	</h1>
 	<form class="form-horizontal">
-		<h1>
-			<p class="text-center">Currency Converter</p>
-		</h1>
 		<div class="form-group">
 			<label class="col-sm-3 control-label">Currency</label>
 			<div class="col-sm-6">
