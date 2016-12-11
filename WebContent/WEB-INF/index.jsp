@@ -57,8 +57,7 @@
 		<div class="form-group">
 			<label class="col-sm-3 control-label">Value</label>
 			<div class="col-sm-6">
-				<input type="text" class="form-control"
-					placeholder="${amount} ${from} ${equal} ${result} ${to}">
+				<input type="text" class="form-control" value="${amount} ${from} ${equal} ${result} ${to}">
 			</div>
 		</div>
 	</form>
